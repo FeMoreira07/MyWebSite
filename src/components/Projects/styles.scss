@@ -1,0 +1,33 @@
+@import url("https://fonts.googleapis.com/css2?family=Sen:wght@400;700;800&display=swap");
+
+.projectContainer {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  margin-bottom: 30px;
+  background-color: white;
+
+  h1 {
+    font-family: "Sen", sans-serif;
+    font-weight: 700;
+    font-size: 50px;
+    color: black;
+    margin-top: 40px;
+  }
+
+  .projectsContent{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 30px;
+    p{
+      font-size: 25px;
+      font-weight: lighter;
+      width: 40%;
+      text-align: center;
+    }
+  }
+}

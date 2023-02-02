@@ -1,0 +1,85 @@
+@import url("https://fonts.googleapis.com/css2?family=Sen:wght@400;700;800&display=swap");
+
+.Footer {
+  display: flex;
+  flex-direction: row;
+  background-color: black;
+  width: 100%;
+  height: 350px;
+  .Links {
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    padding-left: 70px;
+    padding-top: 70px;
+    gap: 30px;
+    h1 {
+      color: white;
+      font-family: "Sen", sans-serif;
+      font-size: 40px;
+    }
+
+    p {
+      color: white;
+      font-family: "Sen", sans-serif;
+      font-weight: bold;
+    }
+  }
+
+  .Options {
+    display: flex;
+    flex-direction: column;
+    color: white;
+    width: 50%;
+    padding-top: 70px;
+    align-items: flex-end;
+    ul {
+      list-style-type: none;
+      display: flex;
+      flex-direction: column;
+      gap: 20px;
+      padding-right: 70px;
+
+      li {
+        font-size: 30px;
+        font-family: "Sen", sans-serif;
+        text-align: end;
+        font-weight: bold;
+        cursor: pointer;
+      }
+
+      li:hover{
+        color: yellow;
+      }
+    }
+  }
+
+  .LinksSection {
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+  }
+
+  .InstagramSvg {
+    width: 30px;
+    height: 30px;
+    color: rgb(241, 6, 116);
+  }
+  .GitHubSvg {
+    width: 30px;
+    height: 30px;
+    color: white;
+  }
+  .LinkedinSvg {
+    width: 30px;
+    height: 30px;
+    color: rgb(96, 150, 250);
+  }
+
+
+  @media (max-width: 1516px) {
+   .Options{
+    display: none;
+   }
+  }
+}
