@@ -31,6 +31,7 @@ export function Project({
         delay: animationTimer,
         ease: [0, 0.71, 0.2, 1.01],
       }}
+      viewport={{ once: true }}
     >
       <img src={image} alt="" className="imageSection"></img>
       <div className="descriptionSection">

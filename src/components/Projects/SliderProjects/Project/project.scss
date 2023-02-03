@@ -25,6 +25,10 @@
       font-family: Poppins;
       color: rgb(59, 59, 59);
       margin-top: -5px;
+
+      @media (max-width: 500px){
+        font-size: 40px;
+      }
     }
     p {
       text-align: center;
@@ -55,6 +59,10 @@
         margin-top: 20px;
         margin-bottom: 10px;
         cursor: pointer;
+
+        @media (max-width: 500px){
+          font-size: medium;
+        }
       }
     }
   }

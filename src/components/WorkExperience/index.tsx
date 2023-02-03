@@ -13,8 +13,9 @@ export function WorkExperience() {
           delay: 1,
           ease: [0, 0.71, 0.2, 1.01],
         }}
+        viewport={{ once: true }}
       >
-        Empresas para quais já trabalhei e fiz projetos no passado
+        Empresas para as quais já trabalhei e fiz projetos no passado
       </motion.p>
       <div className="DescriptionContainer">
         <motion.div
@@ -26,6 +27,7 @@ export function WorkExperience() {
             delay: 1,
             ease: [0, 0.71, 0.2, 1.01],
           }}
+          viewport={{ once: true }}
         >
           <h1>01</h1>
           <h2>
@@ -47,6 +49,7 @@ export function WorkExperience() {
             delay: 1.3,
             ease: [0, 0.71, 0.2, 1.01],
           }}
+          viewport={{ once: true }}
         >
           <h1>02</h1>
           <h2>
@@ -67,6 +70,7 @@ export function WorkExperience() {
             delay: 1.6,
             ease: [0, 0.71, 0.2, 1.01],
           }}
+          viewport={{ once: true }}
         >
           <h1>03</h1>
           <h2>

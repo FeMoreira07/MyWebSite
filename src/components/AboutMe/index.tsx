@@ -6,7 +6,7 @@ function AboutMe() {
     <div className="AboutMeContainer">
       <h1>Sobre Mim</h1>
       <div className="Main">
-        <div className="AboutMePicture"/>
+        <div className="AboutMePicture" />
         <motion.div className="AboutMeText">
           <motion.h1
             initial={{ y: -50 }}
@@ -16,6 +16,7 @@ function AboutMe() {
               delay: 1,
               ease: [0, 0.71, 0.2, 1.01],
             }}
+            viewport={{ once: true }}
           >
             Quem sou eu?
           </motion.h1>
@@ -27,6 +28,7 @@ function AboutMe() {
               delay: 1.7,
               ease: [0, 0.71, 0.2, 1.01],
             }}
+            viewport={{ once: true }}
           >
             Sou um amante da tecnologia, apaixonado por tudo que a envolve, meu
             objetivo é criar grandes aplicações que tenham impacto na vida das
@@ -41,6 +43,7 @@ function AboutMe() {
               delay: 3,
               ease: [0, 0.71, 0.2, 1.01],
             }}
+            viewport={{ once: true }}
           >
             Ps: Eu também sou um rato de academia, adoro video game, amo viajar
             e conhecer o mundo, acho que a foto do lado demonstra bem isso...

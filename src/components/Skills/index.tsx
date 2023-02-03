@@ -22,6 +22,7 @@ export function Skills() {
           delay: 1,
           ease: [0, 0.71, 0.2, 1.01],
         }}
+        viewport={{ once: true }}
       >
         <h1>Técnologias aprendidas</h1>
         <p>
@@ -38,6 +39,7 @@ export function Skills() {
             delay: 1.5,
             ease: [0, 0.71, 0.2, 1.01],
           }}
+          viewport={{ once: true }}
         >
           <SiReact className="ReactSvg" />
           <h1>React</h1>
@@ -50,6 +52,7 @@ export function Skills() {
             delay: 1.5,
             ease: [0, 0.71, 0.2, 1.01],
           }}
+          viewport={{ once: true }}
         >
           <SiTypescript className="TypeScriptSvg" />
           <h1>TypeScript</h1>
@@ -62,6 +65,7 @@ export function Skills() {
             delay: 1.5,
             ease: [0, 0.71, 0.2, 1.01],
           }}
+          viewport={{ once: true }}
         >
           <SiJavascript className="JavaScriptSvg" />
           <h1>JavaScript</h1>
@@ -74,6 +78,7 @@ export function Skills() {
             delay: 1.5,
             ease: [0, 0.71, 0.2, 1.01],
           }}
+          viewport={{ once: true }}
         >
           <FaNodeJs className="NodeJsSvg" />
           <h1>NodeJs</h1>
@@ -86,6 +91,7 @@ export function Skills() {
             delay: 1.5,
             ease: [0, 0.71, 0.2, 1.01],
           }}
+          viewport={{ once: true }}
         >
           <SiHtml5 className="HtmlSvg" />
           <h1>HTML</h1>
@@ -98,6 +104,7 @@ export function Skills() {
             delay: 1.5,
             ease: [0, 0.71, 0.2, 1.01],
           }}
+          viewport={{ once: true }}
         >
           <SiCss3 className="CssSvg" />
           <h1>CSS</h1>
