@@ -35,9 +35,10 @@ export function WorkExperience() {
             Qualidade
           </h2>
           <p>
-            Meu trabalho era dar suporte na manutenção das peças e resolver
-            problemas com os fornecedores internacionais, muitas vezes por
-            ligação de vídeo.
+            Meu papel era prestar suporte na manutenção de equipamentos,
+            garantindo que eles funcionassem corretamente. Isso incluía a
+            resolução de problemas com fornecedores internacionais, muitas vezes
+            através de comunicação por videoconferência.
           </p>
         </motion.div>
         <motion.div
@@ -57,8 +58,10 @@ export function WorkExperience() {
             Front-end
           </h2>
           <p>
-            Fazia implementações Front-end diretamente dos designs UI, correções
-            de bugs e correções de responsividade.
+            Eu realizava implementações de interface de usuário (Front-end) de
+            maneira eficiente, seguindo os designs UI com precisão. Além disso,
+            eu também identificava e corrigia bugs e garantia a responsividade
+            das aplicações em diferentes dispositivos.
           </p>
         </motion.div>
         <motion.div
@@ -77,9 +80,10 @@ export function WorkExperience() {
             <span style={{ color: "green" }}>Boticário</span>, Cliente Sambatech
           </h2>
           <p>
-            Meu último grande projeto na sambatech foi ser responsável por
-            recriar um site administrativo para a boticário, onde eu era o
-            programador front-end principal da equipe.
+            Meu último grande desafio na Sambatech foi desenvolver um novo site
+            administrativo para a Boticário. Como programador Front-end
+            principal, eu tive a responsabilidade de garantir a excelência do
+            desenvolvimento e a entrega de um produto final de alta qualidade.
           </p>
         </motion.div>
       </div>

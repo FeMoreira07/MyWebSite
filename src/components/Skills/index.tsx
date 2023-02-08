@@ -26,8 +26,9 @@ export function Skills() {
       >
         <h1>Técnologias aprendidas</h1>
         <p>
-          Essas são as linguagens que eu mais tenho experiência de uso, e tenho
-          no mínimo 1 ano de experiência com elas
+          Estas são as linguagens de programação nas quais eu possuo uma sólida
+          experiência, acumulada ao longo de pelo menos um ano de trabalho e
+          aprendizado constante.
         </p>
       </motion.div>
       <motion.div className="Skills">

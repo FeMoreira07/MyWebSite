@@ -20,8 +20,9 @@ function Projects() {
             }}
             viewport={{ once: true }}
           >
-            De uma olhada em alguns dos meus novos projetos não gosto muito de
-            dar spoiler, mas tem coisa boa vindo por ai!
+            De uma olhada em alguns dos meus novos projetos, cada um deles é
+            fruto de horas de dedicação e esforço, ainda irei colocar mais
+            projetos aqui, cada vez mais complexos!
           </motion.p>
         </main>
         <SliderProjects />

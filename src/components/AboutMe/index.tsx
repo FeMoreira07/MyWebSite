@@ -30,9 +30,7 @@ function AboutMe() {
             }}
             viewport={{ once: true }}
           >
-            Sou um amante da tecnologia, apaixonado por tudo que a envolve, meu
-            objetivo é criar grandes aplicações que tenham impacto na vida das
-            pessoas.
+           Sou apaixonado por programação e acredito no poder da tecnologia para transformar vidas. Meu objetivo é criar aplicações inovadoras e de impacto positivo na sociedade, contribuindo para uma melhor qualidade de vida das pessoas.
           </motion.p>
           <motion.p
             className="SecondText"
@@ -45,8 +43,7 @@ function AboutMe() {
             }}
             viewport={{ once: true }}
           >
-            Ps: Eu também sou um rato de academia, adoro video game, amo viajar
-            e conhecer o mundo, acho que a foto do lado demonstra bem isso...
+             Estou sempre em busca de novos desafios e oportunidades para aprimorar minhas habilidades e realizar meus sonhos
           </motion.p>
         </motion.div>
       </div>
