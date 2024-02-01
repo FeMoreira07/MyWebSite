@@ -34,7 +34,7 @@ export function ContactMe() {
             <FaLinkedinIn className="LinkedinSvg" />
           </a>
         </div>
-        <p>E-mail: felipetorta@gmail.com</p>
+        <p>E-mail: moreirafelipe@gmail.com</p>
       </div>
       <div className="Options">
         <ul>
@@ -64,7 +64,7 @@ export function ContactMe() {
               ScrollAction(2800);
             }}
           >
-            Técnologias
+            Tecnologias
           </li>
         </ul>
       </div>
