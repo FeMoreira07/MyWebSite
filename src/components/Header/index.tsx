@@ -42,7 +42,7 @@ function Header() {
                 ScrollAction(2900);
               }}
             >
-              Técnologias
+              Tecnologias
             </li>
           </ul>
           <ul className="SocialMedias">

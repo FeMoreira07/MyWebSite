@@ -24,7 +24,7 @@ export function Skills() {
         }}
         viewport={{ once: true }}
       >
-        <h1>Técnologias aprendidas</h1>
+        <h1>Tecnologias aprendidas</h1>
         <p>
           Estas são as linguagens de programação nas quais eu possuo uma sólida
           experiência, acumulada ao longo de pelo menos um ano de trabalho e
